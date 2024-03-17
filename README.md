@@ -1,2 +1,18 @@
-# IDFS-Map-Project
-IDFS-Project: Explore pathfinding with Python's IDFS algorithm. Visualize routes on an interactive map using Tkinter. Efficiently find optimal paths in a user-friendly interface!
+# IDFS-Project: Pathfinding Visualization with Python
+
+This repository presents a pathfinding project utilizing the Iterative Deepening Depth-First Search (IDFS) algorithm. The visualization, created with Tkinter in Python, allows users to interactively observe the algorithm's execution on a map. 
+
+## Features
+
+- **IDFS Algorithm**: Implementing Iterative Deepening Depth-First Search for optimal pathfinding.
+- **Tkinter Visualization**: Interactive map visualization with Tkinter for user-friendly experience.
+- **Python Implementation**: Built entirely in Python, making it easy to understand and modify.
+
+## Usage
+
+Clone the repository and run the Python script to start the visualization.
+
+```bash
+git clone https://github.com/sahaji-2003/IDFS-Map-Project.git
+cd IDFS-Map-Project
+python main.py
