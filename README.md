@@ -1,3 +1,7 @@
+
+
+https://github.com/Sahaji-2003/IDFS-Map-Project/assets/130205533/ad5e09a7-5933-47ae-b66f-e2ac9a595ea8
+
 # IDFS-Project: Pathfinding Visualization with Python
 
 This repository presents a pathfinding project utilizing the Iterative Deepening Depth-First Search (IDFS) algorithm. The visualization, created with Tkinter in Python, allows users to interactively observe the algorithm's execution on a map. 
