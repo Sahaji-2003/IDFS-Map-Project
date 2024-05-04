@@ -1,6 +1,9 @@
 
 
-https://github.com/Sahaji-2003/IDFS-Map-Project/assets/130205533/ad5e09a7-5933-47ae-b66f-e2ac9a595ea8
+
+https://github.com/Sahaji-2003/IDFS-Map-Project/assets/130205533/56f6ddea-e7fa-4417-a3cb-3b08c82083f8
+
+
 
 # IDFS-Project: Pathfinding Visualization with Python
 
